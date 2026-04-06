@@ -1,0 +1,49 @@
+name: Feature request
+description: Suggest an improvement for Intune Bulk Assigner
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an improvement to Intune Bulk Assigner.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      placeholder: Describe the admin frustration or workflow gap
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+      placeholder: Describe the feature or workflow you want
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Related area
+      options:
+        - Setup and onboarding
+        - Resource browsing
+        - Assignment plan builder
+        - Apply / unassign flow
+        - Evidence export
+        - Activity log
+        - Mock mode
+        - Security / credentials
+        - UX / layout
+        - Other
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Extra context
+      placeholder: Explain the tenant/admin scenario where this would help
+

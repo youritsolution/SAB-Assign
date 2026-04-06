@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussions
+    url: https://github.com/youritsolution/Intune-Bulk-Assigner/discussions
+    about: Ask questions, share ideas, or start a discussion.
+  - name: Support page
+    url: https://youritsolution.dk/intunebulkassigner-support.html
+    about: Open the product support page.

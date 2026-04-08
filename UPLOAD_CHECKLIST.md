@@ -1,6 +1,6 @@
-# Intune Bulk Assigner Public Hub Checklist
+# SAB Assign Public Hub Checklist
 
-Use this repository as the public-facing hub for Intune Bulk Assigner without publishing the source code.
+Use this repository as the public-facing hub for SAB Assign without publishing the source code.
 
 ## Repository Purpose
 
@@ -22,7 +22,7 @@ Use this repository as the public-facing hub for Intune Bulk Assigner without pu
 - enable **Issues**
 - enable **Discussions**
 - add the website URL:
-  - `https://youritsolution.dk/intunebulkassigner.html`
+  - `https://youritsolution.dk/sab-assign.html`
 - optionally pin a welcome discussion or announcement thread
 
 ## Release Notes

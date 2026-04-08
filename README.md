@@ -1,6 +1,6 @@
-# Intune Bulk Assigner
+# SAB Assign
 
-Public release and feedback hub for **Intune Bulk Assigner**.
+Public release and feedback hub for **SAB Assign**.
 
 This repository is the public-facing home for:
 
@@ -14,14 +14,14 @@ The application source code is **not** published in this repository.
 
 ## Product Pages
 
-- Website: [youritsolution.dk/intunebulkassigner.html](https://youritsolution.dk/intunebulkassigner.html)
-- Support: [youritsolution.dk/intunebulkassigner-support.html](https://youritsolution.dk/intunebulkassigner-support.html)
-- Privacy: [youritsolution.dk/intunebulkassigner-privacy.html](https://youritsolution.dk/intunebulkassigner-privacy.html)
-- Guide: [youritsolution.dk/intunebulkassigner-guide.html](https://youritsolution.dk/intunebulkassigner-guide.html)
+- Website: [youritsolution.dk/sab-assign.html](https://youritsolution.dk/sab-assign.html)
+- Support: [youritsolution.dk/sab-assign-support.html](https://youritsolution.dk/sab-assign-support.html)
+- Privacy: [youritsolution.dk/sab-assign-privacy.html](https://youritsolution.dk/sab-assign-privacy.html)
+- Guide: [youritsolution.dk/sab-assign-guide.html](https://youritsolution.dk/sab-assign-guide.html)
 
 ## What The App Does
 
-Intune Bulk Assigner is a native macOS admin tool for Microsoft Intune assignment workflows. It is designed for administrators who need to:
+SAB Assign is a native macOS admin tool for Microsoft Intune assignment workflows. It is designed for administrators who need to:
 
 - inspect current assignments before changing anything
 - build one assignment plan and apply it across many resources

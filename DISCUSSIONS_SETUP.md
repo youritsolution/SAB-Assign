@@ -1,4 +1,4 @@
-# Intune Bulk Assigner Discussions Setup
+# SAB Assign Discussions Setup
 
 Recommended structure for GitHub Discussions:
 
@@ -25,7 +25,7 @@ Recommended structure for GitHub Discussions:
 
 Title:
 
-`Welcome to Intune Bulk Assigner Discussions`
+`Welcome to SAB Assign Discussions`
 
 Suggested content:
 
@@ -37,7 +37,7 @@ Suggested content:
 
 ## Links To Reference
 
-- Website: https://youritsolution.dk/intunebulkassigner.html
-- Support: https://youritsolution.dk/intunebulkassigner-support.html
-- Privacy: https://youritsolution.dk/intunebulkassigner-privacy.html
-- Guide: https://youritsolution.dk/intunebulkassigner-guide.html
+- Website: https://youritsolution.dk/sab-assign.html
+- Support: https://youritsolution.dk/sab-assign-support.html
+- Privacy: https://youritsolution.dk/sab-assign-privacy.html
+- Guide: https://youritsolution.dk/sab-assign-guide.html
